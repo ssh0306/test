@@ -13,7 +13,11 @@ git log (깃 커밋 로그 확인 명령)
 git log --oneline (깃 커밋 로그 확인 명령, 옵션으로 커밋 한 줄 요약 보기)
 
 git remote add origin https://github.com/ssh0306/test.git
-(원격 리포리지토리와 로컬 리포리지토리 연결)
+(원격 리포지토리와 로컬 리포지토리 연결)
 
 git push -u origin main 
-(연결된 원격 리포리지토리의 main 브랜치에 로컬 리포리지토리의 main 브랜치 내용을 업로드)
+(연결된 원격 리포지토리의 main 브랜치에 로컬 리포지토리의 main 브랜치 내용을 업로드)
+
+git remote -v (원격 리포지토리 확인)
+
+git clone "원격리포지토리 주소" . (원격리포지토리를 가져옴)
