@@ -1,4 +1,13 @@
+linux 명령어
+
+echo "작성할 메시지" >> README.md
+(README.md 파일을 만들고 그 안에 저장소를 설명하는 메시지를 쓰게 함)
+
+cat "텍스트 파일명"
+e.g. cat README.md
+(텍스트 파일에 있는 내용을 화면에 출력함)
+
 <git 명령어> 
 git log (깃 커밋 로그 확인 명령)
 
-git log --oneline (깃 커밋 로그 확인 명령, 옵션으로 커밋 한 줄 요약 보기
+git log --oneline (깃 커밋 로그 확인 명령, 옵션으로 커밋 한 줄 요약 보기)
