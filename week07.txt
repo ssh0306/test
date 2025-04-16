@@ -1,0 +1,4 @@
+가중치 코드, 비가중치 코드
+변환 연습(e.g. 16진수 -> gray code etc...)
+
+try except 구문
