@@ -1,0 +1,10 @@
+git 명령어 
+
+git branch "sub-branch name"(서브 브랜치 생성)
+git switch "branch name"(브랜치 이동)
+git push -u origin "sub- 브랜치 이름"(메인 브랜치가 아니므로 1회 필요)
+
+git merge "sub-branch name"(메인 브린치로 이동 후 서브 브랜치를 병합)
+충돌이 날 경우 해결이 필요
+git branch -D(병합 완료 후 불필요한 서브 브랜치 로컬 리포지토리 제거)
+git push origin -d(서브 브랜치 원격 리포지토리 제거)
