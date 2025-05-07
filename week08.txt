@@ -1,3 +1,4 @@
-Midtern exam
-- Coumper 
-- Open
+Midterm exam
+- 컴퓨터구조
+- 오픈소스(깃, 깃허브)
+
